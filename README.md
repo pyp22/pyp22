@@ -1,4 +1,4 @@
-# Pierre-Yves PARANTHOEN — F5TMZ — NUXSFM
+# Pierre-Yves PARANTHOEN (F5TMZ / NuxSFM) : Old school · No bloat · No GUI · Just the terminal!
 
 > *"install linux++"*
 

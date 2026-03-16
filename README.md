@@ -1,4 +1,4 @@
-# Pierre-Yves PARANTHOEN (F5TMZ / NuxSFM) : Old school! No bloat! No GUI! Just a bloody console! That's the way of doin' good things!
+# Pierre-Yves PARANTHOEN (F5TMZ / NuxSFM) : Old school! No bloat! No GUI! Just console(s)! That's the way of doin' really good things!
 
 > *"install linux++"*
 

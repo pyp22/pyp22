@@ -24,6 +24,14 @@ Interface  : TTY or nothing
 - **[OpenMVG](https://github.com/openMVG/openMVG)** — Early tester & feedback contributor
 - **First TCP/IP Webcam over VHF at 1200 bauds** — Radio-amateur pioneer
 
+## Interests
+
+| Domain | Languages |
+|--------|-----------|
+| OS Kernels | C++ · Python |
+| Operating Systems | C++ · Python |
+| 3D Rendering | C++ · Python |
+
 ## Philosophy
 
 ```c

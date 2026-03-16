@@ -2,7 +2,7 @@
 
 > *"install linux++"*
 
-Linux user since 1997 · Network engineer · Radio amateur F5TMZ · Console only
+Linux user since 1997. Self Made "bidouilleur" depuis ses 11 ans (ZX81). Old Man: F5TMZ. Console only (Anything else is Bull Shit!)
 
 ---
 

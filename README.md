@@ -9,7 +9,7 @@ Linux user since 1997. Self Made "bidouilleur" depuis ses 11 ans ([ZX81](https:/
 ## Stack
 
 ```
-$ uname -a && echo "No GUI. Never."
+$ uname -a && echo "No GUI! Never!"
 Languages  : BASIC · Assembleur · MS-DOS batch · COBOL (MERISE) · C · C++ · Unix Shells · XML · Python
 Editor     : VIM
 Shell      : Bash

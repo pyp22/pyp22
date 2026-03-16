@@ -28,7 +28,7 @@ Interface  : TTY or nothing
 
 | Domain | Languages |
 |--------|-----------|
-| OS Kernels | C++ · Python |
+| Linux Kernels | C++ · Python |
 | Operating Systems | C++ · Python |
 | 3D Rendering | C++ · Python |
 

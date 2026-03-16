@@ -10,7 +10,7 @@ Linux user since 1997 · Network engineer · Radio amateur F5TMZ · Console only
 
 ```
 $ uname -a && echo "No GUI. Never."
-Languages  : C · C++ · Bash · BASIC · MS-DOS batch
+Languages  : C · C++ · Bash · BASIC · MS-DOS batch · Python · XML
 Editor     : VIM
 Shell      : Bash
 Interface  : TTY or nothing

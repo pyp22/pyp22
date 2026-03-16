@@ -10,7 +10,7 @@ Linux user since 1997. Self Made "bidouilleur" depuis ses 11 ans (ZX81). Old Man
 
 ```
 $ uname -a && echo "No GUI. Never."
-Languages  : C · C++ · Bash · BASIC · MS-DOS batch · Python · XML
+Languages  : BASIC · Assembleur · MS-DOS batch · COBOL (MERISE) · C · C++ · Unix Shells · XML · Python
 Editor     : VIM
 Shell      : Bash
 Interface  : TTY or nothing

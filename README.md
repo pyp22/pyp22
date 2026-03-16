@@ -18,7 +18,7 @@ Interface  : TTY or nothing
 
 ## Projects & Contributions
 
-- **[NuxSFM](https://sourceforge.net/projects/nuxsfm/)** — Custom Linux distribution
+- **[NuxSFM](https://sourceforge.net/projects/nuxsfm/)** — Custom Linux Creation
 - **[Linux From Scratch](https://www.linuxfromscratch.org/)** — Contributor & developer
 - **[MythTV](https://www.mythtv.org/)** / **[VDR](https://www.tvdr.de/)** — Contributor & developer
 - **[OpenMVG](https://github.com/openMVG/openMVG)** — Early tester & feedback contributor

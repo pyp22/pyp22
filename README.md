@@ -18,10 +18,10 @@ Interface  : TTY or nothing
 
 ## Projects & Contributions
 
-- **NuxSFM** — Custom Linux distribution
-- **Linux From Scratch** — Contributor & developer
-- **MythTV / VDR** — Contributor & developer
-- **OpenMVG** — Early tester & feedback contributor
+- **[NuxSFM](https://sourceforge.net/projects/nuxsfm/)** — Custom Linux distribution
+- **[Linux From Scratch](https://www.linuxfromscratch.org/)** — Contributor & developer
+- **[MythTV](https://www.mythtv.org/)** / **[VDR](https://www.tvdr.de/)** — Contributor & developer
+- **[OpenMVG](https://github.com/openMVG/openMVG)** — Early tester & feedback contributor
 - **First TCP/IP Webcam over VHF at 1200 bauds** — Radio-amateur pioneer
 
 ## Philosophy
